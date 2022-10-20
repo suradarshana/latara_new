@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<title>LAterra Splendente</title>
+<link rel="icon" href="favicon.png" type="image/png">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+</head>
+<body id="top" class="elepent">
+<header id="header_wrapper">
+  <div class="container">
+    <div class="header_box">
+      <div class="logo delay-03s animated wow zoomIn"><a href="#"><img src="img/logo2.png" alt="logo"></a></div>
+      <div class="container bagtr delay-03s animated wow fadeInLeft">
+        <nav class="navbar navbar-inverse" role="navigation">
+          <div class="navbar-header">
+            <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse"
+
+                                    data-target="#main-nav"><span class="sr-only">Toggle navigation</span> <span
+
+                                    class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          </div>
+          <div id="main-nav" class="collapse navbar-collapse navStyle">
+            <ul class="nav navbar-nav" id="mainNav">
+            <li><a href="index.php" class="scroll-link">HOME</a></li>
+              <li><a href="about.php" class="scroll-link">About Us</a></li>
+              <li><a href="hotels.php" class="scroll-link">Hotels</a></li>
+              <li class="active"><a href="index.php#tourid" class="scroll-link">Tour</a></li>
+              <li><a href="gallery.php" class="scroll-link">Gallery</a></li>
+              
+              <li><a href="##" class="scroll-link">Contact Us</a></li>
+              <li> <?php include "nav.php"; ?><i class="fa fa-chevron-down" aria-hidden="true"></i>
+</li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section id="mobileslide" class="top_cont_outer mobile">
+<div class="captiont">
+<h1><span class="inline-block typed-text" data-typed-strings="Ayubowan, Ayubowan">Ayubowan </span></h1></div>
+  <div id="mycarousel2" class="carousel slide carousel-fade" data-ride="carousel"> 
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox"> 
+      <div class="item active"> <img  width="100%" src="img/ms1.jpg" alt="LAterra Splendente"> </div>
+      <div class="item"> <img src="img/ms2.jpg" width="100%" alt="LAterra Splendente"> </div>
+      <div class="item"> <img src="img/ms3.jpg" width="100%" alt="LAterra Splendente"> </div>
+      <div class="item"> <img src="img/ms4.jpg" width="100%" alt="LAterra Splendente"> </div>
+    </div>
+  </div>
+</section>
+
+<section id="hero_section" class="top_cont_outer destop">
+<div class="captiont">
+<h1><span class="inline-block typed-text" data-typed-strings="Ayubowan, Ayubowan">Ayubowan </span></h1></div>
+  <div id="mycarousel" class="carousel slide carousel-fade" data-ride="carousel"> 
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox"> 
+      <div class="item active"> <img  width="100%" src="img/slider.jpg" alt="LAterra Splendente"> </div>
+      <div class="item"> <img src="img/train.jpg" width="100%" alt="LAterra Splendente"> </div>
+      <div class="item"> <img src="img/beach.jpg" width="100%" alt="LAterra Splendente"> </div>
+      <div class="item"> <img src="img/kandy.jpg" width="100%" alt="LAterra Splendente"> </div>
+    </div>
+  </div>
+</section>
+<section class="middle_menu ">
+  <nav class="navbar navbar-inverse" role="navigation">
+ <!--    <div class="navbar-header">
+      <button type="button" id="nav-toggle1" class="navbar-toggle" data-toggle="collapse"
+
+                                    data-target="#main-nav1"><span class="sr-only">Toggle navigation</span> <span
+
+                                    class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+    </div> -->
+    <div id="main-nav1" class="navStyle">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <span class="follow">Follow Us</span> <span class="social delay-03s animated wow zoomIn"> 
+      
+      <!-- Add font awesome icons --> 
+      
+      <a href="#" class="fa fa-facebook"></a> <a href="#" class="fa fa-twitter"></a> <!--<a href="#" class="fa fa-google"></a>--> <a href="#" class="fa fa-instagram"></a> </span> 
+      
+    
+      
+    </div>
+  </nav>
+</section>
+
+
+
+<section class="tour2 mt-5 mb-5">
+    <div class="container">
+    <h2>Package 02</h2>
+
+<p>Arrival at Colombo International Airport, meeting with driver / guide and transfer, by air-conditioned car, to Anuradhapura arrival and accommodation at the hotel. In the afternoon visit the first capital of Sri Lanka, today an important archaeological site consisting of numerous dagobas and the venerable Bo tree and visit the ruins of the ancient capital. dinner and overnight at the hotel.
+
+ </p>
+<br>
+
+<p>After breakfast departure for Sigiriya. Along the way stop to admire the imposing statue of Buddha in Aukana. Arrival in Sigiriya and accommodation in the NICE PLACE hotel.
+In the afternoon jeep safari to Minneriya N.P populated by numerous herds of free elephants (optional), dinner and overnight at the hotel.
+
+</p>
+
+<br>
+<p>Breakfast at the hotel, departure to visit the Rock of Sigiriya, a unique wonder in the history of Sri Lanka and famous for its non-religious frescoes dating back to the 5th century AD. continuation to visit the ancient capital Polonnaruwa vast archaeological site where you can see the best preserved ruins of the whole island. Return to the hotel for dinner and overnight at NICE PLACE.
+</p>
+
+<br>
+<p>Breakfast at the hotel departure from Kandy arrival in Dambulla to visit the golden temple where there are many paintings and statues of Buddha continuation to Kandy Along the way for those interested, possibility of witnessing woodworking, batik processing or visiting a garden delle spezia hotel accommodation in HILL CREST VILLA.
+Afternoon at 5.00 pm show of folk dances. Return to the hotel for dinner and overnight at the hotel.
+
+</p>
+<br>
+
+<p>Morning dedicated to the visit of Kandy, the last of the three ancient capitals which is located in the center of the island at 500 meters above sea level in the middle of the green. City sacred to Buddhist worship. Preserves extraordinary testimonies of the past first of all the temple that houses the Dalada Maligawa. The reliquary in which inside 07 small gold cases inserted one into the other is enclosed the '' sacred tooth '' of Buddha for centuries the greatest symbol of Buddhism. Continuation with the visit of the botamic garden of Peradeniya. Just outside Kandy where you can admire a unique vegetation in the world between tree and floral species as well as a greenhouse with five thousand orchids.
+Free afternoon dinner and overnight stay at the hotel HILL CREST VILLA.
+
+</p>
+</div>
+</section> 
+
+  
+<?php include 'footer.php';?>
+<script  type="text/javascript"  src="./js/scripts.js"></script>
+<script  type="text/javascript"  src="./js/typed.min.js"></script>
